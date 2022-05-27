@@ -1,0 +1,11 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\bin\Debug\SecimGrafikSonucları.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\bin\Debug\SecimGrafikSonucları.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\bin\Debug\SecimGrafikSonucları.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.FrmGrafik.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\SecimGrafikSonucları\obj\Debug\SecimGrafikSonucları.FrmGiris.resources
